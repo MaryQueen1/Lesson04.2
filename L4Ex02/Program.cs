@@ -40,5 +40,6 @@ void FillImg(int row, int col)
     }
 }
 
+PrintImage(pic);
 FillImg(7, 13);
 PrintImage(pic);
